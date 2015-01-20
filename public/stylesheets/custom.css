@@ -1,0 +1,17 @@
+/*body {
+  background-color: #FFCC99;
+}*/
+
+body {
+  padding-top: 15vh;
+}
+
+.navigation {
+  height: 15vh;
+  background-color: #FFCC99;
+}
+
+.nav-tile {
+  text-align: center;
+  padding-top: 5vh;
+}
